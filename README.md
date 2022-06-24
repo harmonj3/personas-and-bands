@@ -1,18 +1,22 @@
 # Personas and Bands
 Totally not a distraction from my critical work.
 
+<br/>
+<br/>
 
 ## Personas / Usernames
 
+<br/>
+<br/>
 
 ### BaseSpace Spaceman
-Classic. All-time great.
+"Classic. All-time great."
 
 ### Pat Gatacat
-He wears only designer genes.
+"He wears only designer genes."
 
 ### Michael von Krebs-Cycle
-So professional.
+"So professional."
 
 ### Mary Lou FastQ
 "One we could actually use. haha"
@@ -34,26 +38,31 @@ So professional.
 
 ### Francene Jean
 
-
-
 ### Lucille Allele
 
 ### Allele McNeil
 
 ### Allele Dan Steele
 
-
+<br/>
+<br/>
+<br/>
 
 
 ## Band names
 Album covers courtesy of [https://www.craiyon.com/]([url](https://www.craiyon.com/))
 
+<br/>
+<br/>
+
 ### Chromosome Funeral Home
 I like this one because it appears like there is a drive-thru sign for a KFC at the front door.
+
 ![image](https://user-images.githubusercontent.com/3023691/175664343-d077e02e-6512-4cd0-bee5-5fd30ca1f5b2.png)
 
 ### The Genetic Aesthetic
-It's purple, webasically have to use it.
+It's purple, we basically have to use it.
+
 ![image](https://user-images.githubusercontent.com/3023691/175666124-a97dde3d-feff-40ed-8115-f6d072ebe4d9.png)
 
 ### Ribosome Nursing Home
@@ -79,10 +88,6 @@ It's purple, webasically have to use it.
 Sample lyrics from their best song: "Aberdeen, abilene, acacine, acauline, acrolein, acrosin, adenine, aircalin, ajmaline, aladeen, alamin, alateen, albertine, alekhine, algemeen, algemene, alipin. We didn't start the fire."
 
 
-
-### Allele Appeal
-"I like all the allele ones"
-
 ### 5' War-Crime
 "Probably my favorite"
 
@@ -93,3 +98,5 @@ Sample lyrics from their best song: "Aberdeen, abilene, acacine, acauline, acrol
 ### Unreal Allele
 "Fifth-wheel Allele is a great road trip song, highly recommend you add to your playlist"
 
+### Allele Appeal
+"I like all the allele ones"
