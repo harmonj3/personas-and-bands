@@ -99,6 +99,8 @@ Sample lyrics from their best song: "Aberdeen, abilene, acacine, acauline, acrol
 ![image](https://user-images.githubusercontent.com/3023691/175665860-dd61bffb-d620-47de-86e6-b93ee1821b6c.png)
 
 ### Airship SNP Trip
+![image](https://user-images.githubusercontent.com/3023691/175667733-00c7f73f-5671-4ec2-9852-36ff0d818642.png)
+
 
 ### Unreal Allele
 "Fifth-wheel Allele is a great road trip song, highly recommend you add to your playlist"
